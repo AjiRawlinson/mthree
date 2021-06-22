@@ -15,7 +15,6 @@ public class ScannerExercises {
         scan.biggerBetterAdder();
         scan.HealthyHearts();
         scan.miniMadLibs();
-
     }
 
     private void questForUserInput() {
