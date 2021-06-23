@@ -216,6 +216,4 @@ public class ScannerExercises {
                 noun4 + " and " + adjective2 + " " + noun5 + ", to bodly " + verb +
                 " where no one has " + verbPassed + " before.");
     }
-
-
 }
